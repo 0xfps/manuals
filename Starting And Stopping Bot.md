@@ -1,4 +1,4 @@
-# How to Start The PepeBuldak Bot
+# How to Start And Stop The PepeBuldak Bot
 
 1. Navigate to your [AWS EC2 Instance](https://us-east-1.console.aws.amazon.com/ec2/home).
 2. Click on the instance ID beside the Instance with the name "pepe-buldak".

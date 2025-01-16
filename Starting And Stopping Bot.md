@@ -1,6 +1,6 @@
 # How to Start The PepeBuldak Bot
 
-1. Navigate to your [AWS EC2 Instance](https://us-east-1.console.aws.amazon.com/ec2/home)
+1. Navigate to your [AWS EC2 Instance](https://us-east-1.console.aws.amazon.com/ec2/home).
 2. Click on the instance ID beside the Instance with the name "pepe-buldak".
 3. Click on the "Connect" button at the top right of the page.
 4. Click on "Connect" on the page to proceed with the connection.

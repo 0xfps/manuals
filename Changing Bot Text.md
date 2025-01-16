@@ -1,6 +1,6 @@
 # Changing Bot Text
 
-1. Get in to your console as described [here](./Starting And Stopping Bot.md).
+1. Get in to your console as described [here](https://github.com/0xfps/manuals/edit/dev/Starting%20And%20Stopping%20Bot.md).
 2. Run:
 
 ```bash
